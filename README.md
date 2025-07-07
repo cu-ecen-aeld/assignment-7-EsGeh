@@ -1,3 +1,10 @@
+# Assignment 7-2 - Building Kernel Drivers using buildroot (/ Yocto)
+
+This Repository contains example kernel modules from the Linux Device Drivers 3 (http://lwn.net/Kernel/LDD3/) book.
+This repository is used by the [assignment5](https://github.com/cu-ecen-aeld/assignment-5-EsGeh) repository, which builds and runs these modules using buildroot.
+The [assignment3](https://github.com/cu-ecen-aeld/assignments-3-and-later-EsGeh/blob/main/assignments/assignment7/faulty-oops.md) repository contains an explanation how to debug faulty kernel modules (=> `assignments/assignment7/`).
+
+
 ldd3: Linux Device Drivers 3 examples updated to work with recent kernels
 
 # About
